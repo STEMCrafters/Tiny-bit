@@ -1,6 +1,6 @@
 # Tiny:bit
 
-Extension for Yahboom Tiny:bit V2.0.2
+Extension for Tiny:bit V2.0.2 by Yahboom. Hebrew language support by Allen Selis / STEMCrafters Israel @ https://stemcrafters.tech/
 
 ## License
 
