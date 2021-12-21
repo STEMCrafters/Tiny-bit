@@ -15,6 +15,7 @@
         "_locales/zh-cn/Tinybit-strings.json",
         "_locales/zh-tw/Tinybit-strings.json",
         "_locales/fr/Tinybit-strings.json"
+	"_locales/he/Tinybit-strings.json"
 
     ],
     "testFiles": [
